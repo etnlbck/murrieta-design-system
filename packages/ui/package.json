@@ -4,11 +4,6 @@
   "sideEffects": false,
   "license": "MIT",
   "exports": {
-    "./atoms/button": {
-      "types": "./src/atoms/button.tsx",
-      "import": "./dist/button.mjs",
-      "require": "./dist/button.js"
-    },
     "./foundation/icons": {
       "types": "./src/foundation/icons.tsx",
       "import": "./dist/foundation/icons.mjs",
@@ -40,8 +35,8 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/typescript-config": "*",
+    "@murrieta/eslint-config": "*",
+    "@murrieta/typescript-config": "*",
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
     "eslint": "^8.57.0",

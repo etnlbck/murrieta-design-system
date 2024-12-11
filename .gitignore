@@ -145,5 +145,5 @@ public/dist
 storybook-static/
 
 .vscode
-
+.npmrc
 .vercel
