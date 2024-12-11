@@ -144,7 +144,7 @@ server/dist
 public/dist
 storybook-static/
 
+.vercel
 .vscode
 
-.vercel
 .npmrc
