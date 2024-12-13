@@ -4,8 +4,8 @@
   "sideEffects": false,
   "license": "MIT",
   "exports": {
-    "./button": {
-      "types": "./src/button.tsx",
+    "./atoms/button": {
+      "types": "./src/atoms/button.tsx",
       "import": "./dist/button.mjs",
       "require": "./dist/button.js"
     }
