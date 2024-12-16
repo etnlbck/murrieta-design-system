@@ -1,4 +1,4 @@
-//@ts-ignore
+
 const lightMode = `
 --primary-bg: #BCC5C5;
 --secondary-bg: #798A8B;

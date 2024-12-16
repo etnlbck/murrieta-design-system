@@ -15,7 +15,7 @@
     "prettier": "^3.2.5",
     "turbo": "^2.3.3"
   },
-  "name": "design-system",
+  "name": "murrieta-design-system",
   "packageManager": "bun@1.1.24",
   "workspaces": [
     "apps/*",
