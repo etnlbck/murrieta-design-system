@@ -28,12 +28,12 @@
     "@types/react-dom": "^18.2.19",
     "eslint": "^8.57.0",
     "tsup": "^8.0.2",
-    "typescript": "5.5.4"
-  },
-  "dependencies": {
+    "typescript": "5.5.4",
     "@awesome.me/kit-a2bfc4dc7b": "^1.0.5",
     "@fortawesome/fontawesome-svg-core": "^6.7.1",
-    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fortawesome/react-fontawesome": "^0.2.2"
+  },
+  "dependencies": {
     "react": "^18.2.0"
   },
   "publishConfig": {
