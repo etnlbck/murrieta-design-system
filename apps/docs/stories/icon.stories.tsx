@@ -19,14 +19,11 @@ type Story = StoryObj<typeof OffRoadIcon>;
  * See https://storybook.js.org/docs/react/api/csf
  * to learn how to use render functions.
  */
-export const Primary: Story = {
-  render: ()=> (<OffRoadIcon size="lg"/> ),
-  name: "OffRoadIcon"
-};
 
-export const NLLogoIcon: Story = {
+
+export const Primary: Story = {
   render: () => (<NLLogo size="xl" />),
-  name: "NLLogo",
+  name: "Nate Lubeck Logo",
 };
 
 export const Briefcase: Story = {
