@@ -20,5 +20,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@awesome.me/kit-a2bfc4dc7b": "^1.0.5"
+  }
 }
