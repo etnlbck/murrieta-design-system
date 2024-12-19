@@ -144,3 +144,6 @@ server/dist
 public/dist
 storybook-static/
 
+.vscode
+
+.vercel
