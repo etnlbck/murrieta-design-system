@@ -13,6 +13,11 @@
       "types": "./src/foundation/icons.tsx",
       "import": "./dist/foundation/icons.mjs",
       "require": "./dist/foundation/icons.js"
+    },
+    "./foundation/fonts": {
+					"types": "./src/foundation/FontImporter/index.tsx",
+					"import": "./dist/foundation/FontImporter/index.mjs",
+					"require": "./dist/foundation/FontImporter/index.js"
     }
   },
   "scripts": {
