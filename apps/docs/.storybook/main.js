@@ -9,6 +9,7 @@ const config = {
     "../stories/*.stories.tsx",
     "../stories/**/*.stories.tsx",
     "../stories/**/*.mdx",
+    "../stories/*.mdx",
   ],
   addons: [
     getAbsolutePath("@storybook/addon-links"),
