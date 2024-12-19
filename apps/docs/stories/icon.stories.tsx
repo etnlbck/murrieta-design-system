@@ -8,6 +8,7 @@ import OffRoadIcon, {NLLogo,
 
 const meta: Meta<typeof OffRoadIcon> = {
   component: OffRoadIcon,
+  title: "Design System/Foundation/Icons"
 };
 
 export default meta;
