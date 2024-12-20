@@ -5,15 +5,17 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "clean": "turbo run clean && rm -rf node_modules",
+    "build:tokens": "style-dictionary build --config=./tokens/config.json",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "turbo run build --filter=docs^... && changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
     "@awesome.me/kit-a2bfc4dc7b": "^1.0.5",
+    "@changesets/cli": "^2.27.1",
     "prettier": "^3.2.5",
+    "style-dictionary": "^4.3.0",
     "turbo": "^2.3.3"
   },
   "name": "murrieta-design-system",
