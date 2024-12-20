@@ -1,12 +1,4 @@
-
----
-name: Design Feedback
-about: Provide feedback for a component or design feature
-title: ''
-labels: ''
-assignees: ''
-
----
+# Design Feedback  
 
 ## Component/Feature  
 

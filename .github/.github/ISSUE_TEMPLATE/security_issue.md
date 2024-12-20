@@ -1,13 +1,4 @@
-
----
-name: Security Issue
-about: I have a security concern
-title: ''
-labels: ''
-assignees: ''
-
----
-
+# Security Issue  
 
 ## Summary  
 

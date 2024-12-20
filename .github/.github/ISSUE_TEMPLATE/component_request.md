@@ -1,13 +1,4 @@
-
----
-name: Component Request
-about: Propose a component
-title: ''
-labels: ''
-assignees: ''
-
----
-
+# Component Request  
 
 ## Summary  
 

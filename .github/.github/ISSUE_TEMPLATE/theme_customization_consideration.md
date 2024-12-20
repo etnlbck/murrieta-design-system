@@ -1,13 +1,4 @@
-
----
-name: Theme Customization Feedback 
-about: I have an theme customization idea or feedback
-title: ''
-labels: ''
-assignees: ''
-
----
-
+# Theme Customization Feedback  
 
 ## Summary  
 

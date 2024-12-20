@@ -1,13 +1,4 @@
-
----
-name: Discussion Topic
-about: Topic or idea you’d like to discuss
-title: ''
-labels: ''
-assignees: ''
-
----
-
+# Discussion Topic  
 
 ## Topic  
 
