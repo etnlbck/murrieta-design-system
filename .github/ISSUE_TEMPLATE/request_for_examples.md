@@ -1,4 +1,12 @@
-# Request for Examples  
+
+---
+name: Request for Examples
+about: What examples would you like to see?
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 ## Summary  
 

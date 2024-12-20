@@ -1,4 +1,12 @@
-# Performance Issue  
+
+---
+name: Performance Issue
+about: Experiencing a performance issue
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 ## Summary  
 
