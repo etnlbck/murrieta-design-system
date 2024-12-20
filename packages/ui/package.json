@@ -18,7 +18,12 @@
 					"types": "./src/foundation/FontImporter/index.tsx",
 					"import": "./dist/foundation/FontImporter/index.mjs",
 					"require": "./dist/foundation/FontImporter/index.js"
-    }
+    },
+    "./foundation/colors": {
+					"types": "./src/foundation/colors.tsx",
+					"import": "./dist/foundation/colors.mjs",
+					"require": "./dist/foundation/colors.js"
+		}
   },
   "scripts": {
     "build": "tsup",
