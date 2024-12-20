@@ -1,4 +1,11 @@
-# Documentation Improvement  
+---
+name: Documentation Improvement
+about: What section of the documentation needs improvement
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 ## Summary  
 

@@ -1,4 +1,11 @@
-# Feature Request Template  
+---
+name: Feature Request
+about: What section of the documentation needs improvement
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 ## Summary  
 
