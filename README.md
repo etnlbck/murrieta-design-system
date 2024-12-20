@@ -19,7 +19,7 @@ We believe in the power of community and collaboration. Here’s how you can get
 
 1. **Explore the Code**: Dive into the source code and see how the components are structured.
 2. **Submit Ideas**: Have suggestions for improvement or a new feature idea? Open an issue or start a discussion.
-3. **Report Bugs**: If you encounter any issues, submit a bug report.
+3. **Report Bugs**: Submit a bug report if you encounter any issues.
 4. **Create Pull Requests**: Feel free to fork the repository, make improvements, and contribute back via pull requests.
 5. **Share Your Feedback**: Whether you’re using Murrieta for a project or just exploring, we’d love to hear your thoughts!
 
@@ -32,7 +32,7 @@ We believe in the power of community and collaboration. Here’s how you can get
 
 ## 🎨 For Designers
 
-Check out our [design files](./docs/design-assets) to see how Murrieta components come to life visually.
+Check out our [design files](./docs/design-assets.md) to see how Murrieta components come to life visually.
 
 ## 💻 For Developers
 
