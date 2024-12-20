@@ -4,10 +4,10 @@ We use **[Figma](https://figma.com/)** to design and prototype components for th
 
 ## Figma Files  
 
-- **[Murrieta Design System Components](https://www.figma.com/file/your-file-id)**  
+- **[Murrieta Design System Components](https://www.figma.com/design/hdt7BktTnohqp9Im41Kitw/Murrieta-Design-System?node-id=1-16&t=uy3j90Qj8jGOeeNt-1)**  
   This file contains all reusable design tokens and components.  
-- **[Prototypes and Examples](https://www.figma.com/file/your-prototype-id)**  
-  Explore interactive prototypes demonstrating real-world use cases.  
+<!-- - **[Prototypes and Examples](https://www.figma.com/file/your-prototype-id)**  
+  Explore interactive prototypes demonstrating real-world use cases.   -->
 
 ### Guidelines for Using Figma  
 
