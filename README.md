@@ -32,7 +32,7 @@ We believe in the power of community and collaboration. Here’s how you can get
 
 ## 🎨 For Designers
 
-Check out our [design files](./design-assets) to see how Murrieta components come to life visually.
+Check out our [design files](./docs/design-assets) to see how Murrieta components come to life visually.
 
 ## 💻 For Developers
 
