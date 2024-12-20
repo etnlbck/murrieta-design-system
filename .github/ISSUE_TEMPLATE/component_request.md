@@ -1,4 +1,3 @@
-
 ---
 name: Component Request
 about: Propose a component

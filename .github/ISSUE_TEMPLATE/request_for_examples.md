@@ -1,4 +1,3 @@
-
 ---
 name: Request for Examples
 about: What examples would you like to see?
