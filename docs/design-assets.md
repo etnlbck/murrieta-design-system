@@ -12,7 +12,7 @@ We use **[Figma](https://figma.com/)** to design and prototype components for th
 ### Guidelines for Using Figma  
 
 - **View Only**: If you only need to explore the designs, you can access the file with a view-only link.  
-- **Collaborators**: Designers contributing to the system can request edit access. Please follow our contribution process (see below).  
+- **Collaborators**: Designers contributing to the system can request edit access. Please follow our [contribution process](../CONTRIBUTING.md#design-collaboration).  
 - **Syncing Code and Design**: Ensure changes made in Figma are reflected in the codebase and vice versa.  
 
 ### Learn Figma  
