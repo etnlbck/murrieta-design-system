@@ -1,4 +1,3 @@
-
 ---
 name: Design Feedback
 about: Provide feedback for a component or design feature

@@ -1,4 +1,3 @@
-
 ---
 name: Performance Issue
 about: Experiencing a performance issue

@@ -1,4 +1,3 @@
-
 ---
 name: Security Issue
 about: I have a security concern

@@ -1,4 +1,3 @@
-
 ---
 name: Documentation Improvement
 about: What section of the documentation needs improvement

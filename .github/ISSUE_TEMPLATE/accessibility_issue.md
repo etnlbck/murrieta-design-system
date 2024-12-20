@@ -1,4 +1,3 @@
-
 ---
 name: Accessibility Issue 
 about: What accessibility issue are you experiencing
