@@ -4,7 +4,8 @@ Welcome to the **Murrieta Design System**! This guide will help you set up and s
 
 ## Prerequisites  
 
-Before you begin, ensure you have the following installed:  
+Before you begin, ensure you have the following installed:
+
 - [Bun](https://bun.sh/) (a fast JavaScript runtime and package manager)  
 - [Node.js](https://nodejs.org/) (optional, for compatibility purposes)  
 - A code editor, such as [VS Code](https://code.visualstudio.com/)  
@@ -15,52 +16,65 @@ Before you begin, ensure you have the following installed:
 
 Murrieta is published to npm under the organization `@murrieta`. You can install it in your project as follows:  
 
-### Using npm  
+### Using npm
+
 ```bash
-npm install @murrieta/design-system
+npm install @murrieta/ui
+```
 
 Using yarn
 
-yarn add @murrieta/design-system
+```bash
+yarn add @murrieta/ui
+```
 
 Using bun
 
-bun add @murrieta/design-system
+```bash
+bun add @murrieta/ui
+```
 
 Using Murrieta Components
 
 After installing, you can use Murrieta components in your React project:
 
-import { Button } from '@murrieta/design-system';
+```jsx
+import { Button } from '@murrieta/ui';
 
 const App = () => (
   <Button variant="primary">Click Me</Button>
 );
 export default App;
+```
 
 Running Locally
 
 To explore or contribute to the Murrieta Design System, clone the repository and run it locally:
-	1.	Clone the Repository:
+1.Clone the Repository:
 
+```bash
 git clone https://github.com/etnlbck/murrieta-design-system.git
 cd murrieta-design-system
+```
 
+2.Install Dependencies:
 
-	2.	Install Dependencies:
 Using Bun:
 
+```bash
 bun install
+```
 
+3.Start the Development Server:
 
-	3.	Start the Development Server:
 Run the Storybook server to preview and develop components:
 
+```bash
 bun run dev
+```
 
+4.View in Your Browser:
 
-	4.	View in Your Browser:
-Open http://localhost:6006/ to explore and interact with Murrieta components.
+Open <http://localhost:6006/> to explore and interact with Murrieta components.
 
 That’s it! You’re now ready to use the Murrieta Design System in your projects. For more information, check out the Murrieta GitHub repository.
-
