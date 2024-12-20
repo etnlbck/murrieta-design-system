@@ -1,37 +1,20 @@
-# Feature Request Template  
-
-## Summary  
-
-Provide a clear and concise summary of the feature you are requesting.  
-
-**What problem does this feature solve?**  
-(Explain the challenge or need this feature would address.)  
-
-**How does this align with the goals of the Murrieta Design System?**  
-(Explain how this feature supports the design system’s principles or purpose.)  
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-## Proposed Solution  
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-Describe your proposed solution in detail:  
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-- **Feature Overview**: What would the feature do?  
-- **User Stories**: (Optional) Include specific user stories or use cases.  
-- **Visuals**: (Optional) Attach wireframes, mockups, or diagrams to illustrate the feature.  
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
----
-
-## Alternatives Considered  
-
-List any alternative solutions or approaches you’ve thought of and why you believe your proposal is the best option.  
-
----
-
-## Additional Information  
-
-Add any other context, links, or resources that might help in evaluating your feature request.  
-
----
-
-Thank you for helping to make the Murrieta Design System better! 🚀
+**Additional context**
+Add any other context or screenshots about the feature request here.
