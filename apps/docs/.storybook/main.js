@@ -11,6 +11,7 @@ const config = {
     "../stories/**/*.mdx",
     "../stories/*.mdx",
   ],
+  staticDirs: ["../../../static", ],
   addons: [
     getAbsolutePath("@storybook/addon-links"),
     getAbsolutePath("@storybook/addon-essentials"),

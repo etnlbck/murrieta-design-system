@@ -3,7 +3,7 @@
   "platforms": {
     "web": {
       "transformGroup": "css",
-      "buildPath": "packages/ui/dist/",
+      "buildPath": "packages/ui/src/",
       "files": [
         {
           "destination": "foundation/variables.css",
