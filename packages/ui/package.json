@@ -27,6 +27,10 @@
     "./foundation/variables.css": {
       "import": "./src/foundation/variables.css",
       "require": "./src/foundation/variables.css"
+    },
+    "./foundation/fonts.css": {
+      "import": "./src/foundation/fonts.css",
+      "require": "./src/foundation/fonts.css"
     }
   },
   "scripts": {

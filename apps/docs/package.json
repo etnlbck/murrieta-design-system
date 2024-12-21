@@ -9,7 +9,7 @@
     "preview-storybook": "serve storybook-static",
     "clean": "rm -rf .turbo && rm -rf node_modules",
     "lint": "eslint ./stories/*.stories.tsx --max-warnings 0",
-    "chromatic": "npx chromatic --project-token=chpt_ba9962e4ed5080f --build-script-name=build --output-dir=storybook-static"
+    "chromatic": "chromatic --build-script-name=build --output-dir=storybook-static --exit-zero-on-changes"
   },
   "dependencies": {
     "@murrieta/ui": "*",
@@ -18,16 +18,17 @@
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
     "@storybook/addon-actions": "^8.2.6",
     "@storybook/addon-essentials": "^8.2.6",
     "@storybook/addon-links": "^8.2.6",
     "@storybook/react": "^8.2.6",
     "@storybook/react-vite": "^8.2.6",
     "@vitejs/plugin-react": "^4.2.1",
+    "chromatic": "^11.20.2",
     "eslint": "^8.57.0",
     "serve": "^14.2.1",
     "storybook": "^8.2.6",
-    "@repo/typescript-config": "*",
     "typescript": "5.5.4",
     "vite": "^5.1.4"
   }

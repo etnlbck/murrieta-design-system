@@ -1,0 +1,98 @@
+/* Import Inter font with desired weights and styles */
+@import "@fontsource/inter/400.css"; /* Regular */
+@import "@fontsource/inter/700.css"; /* Bold */
+
+/* Import Bebas Neue font with desired weights and styles */
+@import "@fontsource/bebas-neue/400.css"; /* Regular */
+
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-Bold.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-BoldItalic.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-BoldCondensed.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-BoldCondensed.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-Condensed.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-Condensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-ExtraBold.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-LightItalic.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('RockwellStd.woff2') format('woff2'),
+        url('RockwellStd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-Light.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell Std';
+    src: url('./fonts/rockwell/RockwellStd-Italic.woff2') format('woff2'),
+        url('./fonts/rockwell/RockwellStd-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urban Jungle';
+    src: url('./fonts/urbanJungle/UrbanJungleDEMO.woff2') format('woff2'),
+        url('./fonts/urbanJungle/UrbanJungleDEMO.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
