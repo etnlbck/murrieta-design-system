@@ -5,7 +5,7 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "clean": "turbo run clean && rm -rf node_modules",
-    "build:tokens": "style-dictionary build --config=./tokens/config.json",
+    "build:tokens": "style-dictionary build --config=./packages/tokens/config.json",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",
