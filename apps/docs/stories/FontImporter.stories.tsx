@@ -4,7 +4,7 @@ import FontImporter from '@murrieta/ui/foundation/fonts';
 import type { FontImporterProps } from '@murrieta/ui/foundation/fonts'
 
 export default {
-  title: 'Design System/Foundation/FontImporter',
+  title: 'Design System/Utilities/FontImporter',
   component: FontImporter,
   argTypes: {
     fontUrl: {
