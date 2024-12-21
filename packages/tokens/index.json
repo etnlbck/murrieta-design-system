@@ -1,0 +1,1001 @@
+{
+  "global": {},
+  "Colors/Light": {
+    "NL-Primary": {
+      "50": {
+        "value": "#f7f8f8",
+        "type": "color"
+      },
+      "100": {
+        "value": "#eef0f0",
+        "type": "color"
+      },
+      "200": {
+        "value": "#d9dede",
+        "type": "color"
+      },
+      "300": {
+        "value": "#bcc5c5",
+        "type": "color"
+      },
+      "400": {
+        "value": "#919f9e",
+        "type": "color"
+      },
+      "500": {
+        "value": "#738484",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5d6c6c",
+        "type": "color"
+      },
+      "700": {
+        "value": "#4c5858",
+        "type": "color"
+      },
+      "800": {
+        "value": "#414a4b",
+        "type": "color"
+      },
+      "900": {
+        "value": "#394141",
+        "type": "color"
+      },
+      "950": {
+        "value": "#262b2b",
+        "type": "color"
+      },
+      "value": "#4a5455",
+      "type": "color",
+      "description": "Use this for main backgrounds, dark text on light mode, or light text on dark mode."
+    },
+    "AG-Yellow": {
+      "50": {
+        "value": "#fefaec",
+        "type": "color"
+      },
+      "100": {
+        "value": "#fbf0ca",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f6e191",
+        "type": "color"
+      },
+      "300": {
+        "value": "#f1c84b",
+        "type": "color"
+      },
+      "400": {
+        "value": "#efb830",
+        "type": "color"
+      },
+      "500": {
+        "value": "#e89818",
+        "type": "color"
+      },
+      "600": {
+        "value": "#cd7412",
+        "type": "color"
+      },
+      "700": {
+        "value": "#aa5213",
+        "type": "color"
+      },
+      "800": {
+        "value": "#8a4116",
+        "type": "color"
+      },
+      "900": {
+        "value": "#723615",
+        "type": "color"
+      },
+      "950": {
+        "value": "#411a07",
+        "type": "color"
+      },
+      "value": "#f1c84b",
+      "type": "color",
+      "description": "Represents energy and highlights, great for CTAs, hover states, or graffiti-inspired touches."
+    },
+    "AG-Magenta": {
+      "50": {
+        "value": "#fbf4f8",
+        "type": "color"
+      },
+      "100": {
+        "value": "#f8ebf2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f4d6e7",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ebb6d2",
+        "type": "color"
+      },
+      "400": {
+        "value": "#de88b4",
+        "type": "color"
+      },
+      "500": {
+        "value": "#d06497",
+        "type": "color"
+      },
+      "600": {
+        "value": "#bc4377",
+        "type": "color"
+      },
+      "700": {
+        "value": "#a23460",
+        "type": "color"
+      },
+      "800": {
+        "value": "#872d50",
+        "type": "color"
+      },
+      "900": {
+        "value": "#712a46",
+        "type": "color"
+      },
+      "950": {
+        "value": "#441326",
+        "type": "color"
+      },
+      "value": "#bc4377",
+      "type": "color",
+      "description": "Bold and creative, use for emphasis or highlighting personal/artistic sections."
+    },
+    "AG-Red": {
+      "50": {
+        "value": "#fef2f3",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffe1e2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffc8cb",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffa2a6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#fc6d74",
+        "type": "color"
+      },
+      "500": {
+        "value": "#f53e46",
+        "type": "color"
+      },
+      "600": {
+        "value": "#e22029",
+        "type": "color"
+      },
+      "700": {
+        "value": "#be171f",
+        "type": "color"
+      },
+      "800": {
+        "value": "#9d171d",
+        "type": "color"
+      },
+      "900": {
+        "value": "#821a1f",
+        "type": "color"
+      },
+      "950": {
+        "value": "#47080b",
+        "type": "color"
+      },
+      "value": "#e22029",
+      "type": "color",
+      "description": "Attention-grabbing, great for errors, warnings, or passionate expressions."
+    },
+    "AG-Blue": {
+      "50": {
+        "value": "#f3f6fc",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e6edf8",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c8d9ef",
+        "type": "color"
+      },
+      "300": {
+        "value": "#97b9e2",
+        "type": "color"
+      },
+      "400": {
+        "value": "#5f94d1",
+        "type": "color"
+      },
+      "500": {
+        "value": "#3a75ba",
+        "type": "color"
+      },
+      "600": {
+        "value": "#2a5c9f",
+        "type": "color"
+      },
+      "700": {
+        "value": "#234b81",
+        "type": "color"
+      },
+      "800": {
+        "value": "#21406b",
+        "type": "color"
+      },
+      "900": {
+        "value": "#20385a",
+        "type": "color"
+      },
+      "950": {
+        "value": "#15233c",
+        "type": "color"
+      },
+      "value": "#3a75ba",
+      "type": "color",
+      "description": "Reliable and trustworthy, use for links, actions, or off-roading sections (symbolic of the sky or adventure)."
+    },
+    "AG-Green": {
+      "50": {
+        "value": "#f1f9ec",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e1f2d5",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c4e6b0",
+        "type": "color"
+      },
+      "300": {
+        "value": "#9ed581",
+        "type": "color"
+      },
+      "400": {
+        "value": "#7cc258",
+        "type": "color"
+      },
+      "500": {
+        "value": "#5ea73b",
+        "type": "color"
+      },
+      "600": {
+        "value": "#47852b",
+        "type": "color"
+      },
+      "700": {
+        "value": "#386625",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2f5222",
+        "type": "color"
+      },
+      "900": {
+        "value": "#2b4621",
+        "type": "color"
+      },
+      "950": {
+        "value": "#13260d",
+        "type": "color"
+      },
+      "value": "#7cc258",
+      "type": "color",
+      "description": "Symbolizes growth and nature, perfect for outdoors-inspired elements or success states."
+    },
+    "NL-Secondary": {
+      "50": {
+        "value": "#f5f6f6",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e5e8e8",
+        "type": "color"
+      },
+      "200": {
+        "value": "#cdd4d4",
+        "type": "color"
+      },
+      "300": {
+        "value": "#aab6b6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#7f9091",
+        "type": "color"
+      },
+      "500": {
+        "value": "#647576",
+        "type": "color"
+      },
+      "600": {
+        "value": "#566364",
+        "type": "color"
+      },
+      "700": {
+        "value": "#4a5455",
+        "type": "color"
+      },
+      "800": {
+        "value": "#414849",
+        "type": "color"
+      },
+      "900": {
+        "value": "#393f40",
+        "type": "color"
+      },
+      "950": {
+        "value": "#232829",
+        "type": "color"
+      },
+      "value": "#798a8b",
+      "type": "color",
+      "description": "Ideal for secondary text, card backgrounds, and subtle dividers."
+    },
+    "NL-Tertiary": {
+      "50": {
+        "value": "#f5f6f6",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e5e8e8",
+        "type": "color"
+      },
+      "200": {
+        "value": "#cdd4d4",
+        "type": "color"
+      },
+      "300": {
+        "value": "#aab6b6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#798a8b",
+        "type": "color"
+      },
+      "500": {
+        "value": "#647476",
+        "type": "color"
+      },
+      "600": {
+        "value": "#566264",
+        "type": "color"
+      },
+      "700": {
+        "value": "#4a5354",
+        "type": "color"
+      },
+      "800": {
+        "value": "#414849",
+        "type": "color"
+      },
+      "900": {
+        "value": "#393f40",
+        "type": "color"
+      },
+      "950": {
+        "value": "#232729",
+        "type": "color"
+      },
+      "value": "#bcc5c5",
+      "type": "color",
+      "description": "Perfect for borders, inactive states, or muted backgrounds."
+    },
+    "Background": {
+      "Primary": {
+        "value": "#bcc5c5",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "#798a8b",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "value": "#4a5455",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "#798a8b",
+        "type": "color"
+      }
+    },
+    "CTA": {
+      "Link-Text": {
+        "value": "#3a75ba",
+        "type": "color"
+      }
+    },
+    "Hightlight": {
+      "value": "#f1c84b",
+      "type": "color"
+    },
+    "Warning-Error": {
+      "value": "#e22029",
+      "type": "color"
+    },
+    "Success": {
+      "value": "#7cc258",
+      "type": "color"
+    }
+  },
+  "Colors/Dark": {
+    "NL-Primary": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#798a8b",
+      "type": "color",
+      "description": "Use this for main backgrounds, dark text on light mode, or light text on dark mode."
+    },
+    "AG-Yellow": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#fad84c",
+      "type": "color",
+      "description": "Represents energy and highlights, great for CTAs, hover states, or graffiti-inspired touches."
+    },
+    "AG-Magenta": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#f1a7b4",
+      "type": "color",
+      "description": "Bold and creative, use for emphasis or highlighting personal/artistic sections."
+    },
+    "AG-Red": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#e7807e",
+      "type": "color",
+      "description": "Attention-grabbing, great for errors, warnings, or passionate expressions."
+    },
+    "AG-Blue": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#4ca8d6",
+      "type": "color",
+      "description": "Reliable and trustworthy, use for links, actions, or off-roading sections (symbolic of the sky or adventure)."
+    },
+    "AG-Green": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#b4d99b",
+      "type": "color",
+      "description": "Symbolizes growth and nature, perfect for outdoors-inspired elements or success states."
+    },
+    "NL-Secondary": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#bcc5c5",
+      "type": "color",
+      "description": "Ideal for secondary text, card backgrounds, and subtle dividers."
+    },
+    "NL-Tertiary": {
+      "50": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "value": "#dee2e2",
+      "type": "color",
+      "description": "Perfect for borders, inactive states, or muted backgrounds."
+    },
+    "Background": {
+      "Primary": {
+        "value": "#798a8b",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "#dee2e2",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "value": "#dee2e2",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "#bcc5c5",
+        "type": "color"
+      }
+    },
+    "CTA": {
+      "Link-Text": {
+        "value": "#4ca8d6",
+        "type": "color"
+      }
+    },
+    "Hightlight": {
+      "value": "#fad84c",
+      "type": "color"
+    },
+    "Warning-Error": {
+      "value": "#e7807e",
+      "type": "color"
+    },
+    "Success": {
+      "value": "#b4d99b",
+      "type": "color"
+    }
+  },
+  "Typography/Mode 1": {
+    "font": {
+      "secondary-art": {
+        "value": "Urban Jungle",
+        "type": "text"
+      },
+      "primary": {
+        "value": "Inter",
+        "type": "text"
+      },
+      "accent": {
+        "value": "Rockwell",
+        "type": "text"
+      },
+      "secondary": {
+        "value": "Bebas Neue",
+        "type": "text"
+      }
+    }
+  },
+  "Spacing/Tight": {
+    "Base Unit": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "Use an 8px grid system for scalability and consistency."
+    },
+    "Small": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "description": "For compact items like padding and spacing within cards or buttons"
+    },
+    "Medium": {
+      "value": "1rem",
+      "type": "dimension",
+      "description": "For spacing between elements like text and images"
+    },
+    "Large": {
+      "value": "2rem",
+      "type": "dimension",
+      "description": "For macro-level spacing like section dividers or hero areas"
+    }
+  },
+  "Spacing/Loose": {
+    "Base Unit": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "Use an 8px grid system for scalability and consistency."
+    },
+    "Small": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "For compact items like padding and spacing within cards or buttons"
+    },
+    "Medium": {
+      "value": "1.5rem",
+      "type": "dimension",
+      "description": "For spacing between elements like text and images"
+    },
+    "Large": {
+      "value": "3rem",
+      "type": "dimension",
+      "description": "For macro-level spacing like section dividers or hero areas"
+    }
+  },
+  "Spacing/Spaceship": {
+    "Base Unit": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "Use an 8px grid system for scalability and consistency."
+    },
+    "Small": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "For compact items like padding and spacing within cards or buttons"
+    },
+    "Medium": {
+      "value": "1.5rem",
+      "type": "dimension",
+      "description": "For spacing between elements like text and images"
+    },
+    "Large": {
+      "value": "4rem",
+      "type": "dimension",
+      "description": "For macro-level spacing like section dividers or hero areas"
+    }
+  },
+  "Grid/Desktop": {
+    "Columns": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "description": "Responsive grid system"
+    },
+    "Gutters": {
+      "value": "1.5rem",
+      "type": "dimension"
+    }
+  },
+  "Grid/Tablet": {
+    "Columns": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "Responsive grid system"
+    },
+    "Gutters": {
+      "value": "1rem",
+      "type": "dimension"
+    }
+  },
+  "Grid/Mobile": {
+    "Columns": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "description": "Responsive grid system"
+    },
+    "Gutters": {
+      "value": "1rem",
+      "type": "dimension"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Colors/Light",
+      "Colors/Dark",
+      "Typography/Mode 1",
+      "Spacing/Tight",
+      "Spacing/Loose",
+      "Spacing/Spaceship",
+      "Grid/Desktop",
+      "Grid/Tablet",
+      "Grid/Mobile"
+    ]
+  }
+}
