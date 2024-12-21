@@ -2,6 +2,7 @@ import React from 'react';
 import type {Meta, StoryFn} from '@storybook/react';
 import './ColorPalette.css';
 import cssVariables from "@murrieta/ui/foundation/colors"
+import "@murrieta/ui/foundation/variables.css";
 
 // const cssVariables = {
 //   light: `

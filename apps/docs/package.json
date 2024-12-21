@@ -8,7 +8,8 @@
     "build": "storybook build --docs",
     "preview-storybook": "serve storybook-static",
     "clean": "rm -rf .turbo && rm -rf node_modules",
-    "lint": "eslint ./stories/*.stories.tsx --max-warnings 0"
+    "lint": "eslint ./stories/*.stories.tsx --max-warnings 0",
+    "chromatic": "npx chromatic --project-token=chpt_ba9962e4ed5080f --build-script-name=build --output-dir=storybook-static"
   },
   "dependencies": {
     "@murrieta/ui": "*",

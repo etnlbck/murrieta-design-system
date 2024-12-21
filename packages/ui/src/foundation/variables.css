@@ -1,0 +1,60 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --colors-light-nl-primary: #4a5455;
+  --colors-light-ag-yellow: #f1c84b;
+  --colors-light-ag-magenta: #bc4377;
+  --colors-light-ag-red: #e22029;
+  --colors-light-ag-blue: #3a75ba;
+  --colors-light-ag-green: #7cc258;
+  --colors-light-nl-secondary: #798a8b;
+  --colors-light-nl-tertiary: #bcc5c5;
+  --colors-light-background-primary: #bcc5c5;
+  --colors-light-background-secondary: #798a8b;
+  --colors-light-text-primary: #4a5455;
+  --colors-light-text-secondary: #798a8b;
+  --colors-light-cta-link-text: #3a75ba;
+  --colors-light-hightlight: #f1c84b;
+  --colors-light-warning-error: #e22029;
+  --colors-light-success: #7cc258;
+  --colors-dark-nl-primary: #798a8b;
+  --colors-dark-ag-yellow: #fad84c;
+  --colors-dark-ag-magenta: #f1a7b4;
+  --colors-dark-ag-red: #e7807e;
+  --colors-dark-ag-blue: #4ca8d6;
+  --colors-dark-ag-green: #b4d99b;
+  --colors-dark-nl-secondary: #bcc5c5;
+  --colors-dark-nl-tertiary: #dee2e2;
+  --colors-dark-background-primary: #798a8b;
+  --colors-dark-background-secondary: #dee2e2;
+  --colors-dark-text-primary: #dee2e2;
+  --colors-dark-text-secondary: #bcc5c5;
+  --colors-dark-cta-link-text: #4ca8d6;
+  --colors-dark-hightlight: #fad84c;
+  --colors-dark-warning-error: #e7807e;
+  --colors-dark-success: #b4d99b;
+  --typography-mode-1-font-secondary-art: Urban Jungle;
+  --typography-mode-1-font-primary: Inter;
+  --typography-mode-1-font-accent: Rockwell;
+  --typography-mode-1-font-secondary: Bebas Neue;
+  --spacing-tight-base-unit: 0.5rem;
+  --spacing-tight-small: 0.25rem;
+  --spacing-tight-medium: 1rem;
+  --spacing-tight-large: 2rem;
+  --spacing-loose-base-unit: 0.5rem;
+  --spacing-loose-small: 0.5rem;
+  --spacing-loose-medium: 1.5rem;
+  --spacing-loose-large: 3rem;
+  --spacing-spaceship-base-unit: 0.5rem;
+  --spacing-spaceship-small: 0.5rem;
+  --spacing-spaceship-medium: 1.5rem;
+  --spacing-spaceship-large: 4rem;
+  --grid-desktop-columns: 0.75rem;
+  --grid-desktop-gutters: 1.5rem;
+  --grid-tablet-columns: 0.5rem;
+  --grid-tablet-gutters: 1rem;
+  --grid-mobile-columns: 0.25rem;
+  --grid-mobile-gutters: 1rem;
+}
