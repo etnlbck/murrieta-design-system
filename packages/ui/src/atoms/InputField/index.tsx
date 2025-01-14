@@ -1,13 +1,21 @@
-const InputField = ({ label = "Label" }) => (
+import * as Form from "@radix-ui/react-form";
+import type React from 'react';
+
+export interface InputFieldProps {
+  label: string;
+}
+
+const InputField: React.FC<InputFieldProps> = ({ label }) => (
   <div className="h-[70px] flex-col justify-start items-start gap-2 inline-flex">
-    <div className="self-stretch text-[#1e1e1e] text-base font-normal font-['Rockwell Std']">
+    <Form.Label className="self-stretch text-[#1e1e1e] text-base font-normal font-['Rockwell Std']">
       {label}
-    </div>
-    <div className="self-stretch px-4 py-3 bg-white rounded-lg border border-[#d9d9d9] justify-start items-center inline-flex overflow-hidden">
-      <div className="grow shrink basis-0 text-[#1e1e1e] text-base font-normal font-['Rockwell Std']">
-        Value
-      </div>
-    </div>
+    </Form.Label>
+    <Form.Control asChild>
+    <input
+      placeholder=" "
+      className="self-stretch px-4 py-3 bg-white rounded-lg border border-[#d9d9d9] justify-start items-center inline-flex overflow-hidden"
+    />
+    </Form.Control>
   </div>
 );
 

@@ -1,12 +1,17 @@
+import * as Form from "@radix-ui/react-form";
+
 const TextAreaField = ({ label = "Label" }) => (
   <div className="h-[107px] flex-col justify-start items-start gap-2 inline-flex">
-    <div className="self-stretch text-[#1e1e1e] text-base font-normal font-['Rockwell Std']">
+    <Form.Label className="self-stretch text-[#1e1e1e] text-base font-normal font-['Rockwell Std']">
       {label}
-    </div>
+    </Form.Label>
     <div className="self-stretch px-4 py-3 bg-white rounded-lg border border-[#d9d9d9] justify-start items-start inline-flex overflow-hidden">
-      <div className="grow shrink basis-0 text-[#1e1e1e] text-base font-normal font-['Rockwell Std']">
-        Value
-      </div>
+    <Form.Control asChild>
+      <textarea
+        placeholder=" "
+        className="self-stretch px-4 py-3 bg-white rounded-lg border border-[#d9d9d9] justify-start items-start inline-flex overflow-hidden"
+      />
+      </ Form.Control>
     </div>
   </div>
 );
