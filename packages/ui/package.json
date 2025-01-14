@@ -9,6 +9,11 @@
       "import": "./dist/button.mjs",
       "require": "./dist/button.js"
     },
+    "./atoms/checkbox": {
+      "types": "./src/atoms/CheckboxField/index.tsx",
+      "import": "./dist/atoms/CheckboxField/index.mjs",
+      "require": "./dist/atoms/CheckboxField/index.js"
+    },
     "./foundation/icons": {
       "types": "./src/foundation/icons.tsx",
       "import": "./dist/foundation/icons.mjs",
@@ -52,7 +57,8 @@
     "@fortawesome/react-fontawesome": "^0.2.2"
   },
   "dependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "publishConfig": {
     "access": "public"
