@@ -14,6 +14,8 @@
   "devDependencies": {
     "@awesome.me/kit-a2bfc4dc7b": "^1.0.5",
     "@changesets/cli": "^2.27.1",
+    "@storybook/addon-interactions": "^8.5.3",
+    "@storybook/test": "^8.5.3",
     "chromatic": "^11.20.2",
     "prettier": "^3.2.5",
     "style-dictionary": "^4.3.0",
