@@ -11,10 +11,11 @@ const config = {
     "../stories/**/*.mdx",
     "../stories/*.mdx",
   ],
-  staticDirs: ["../../../static", ],
+  staticDirs: ["../../../static"],
   addons: [
     getAbsolutePath("@storybook/addon-links"),
     getAbsolutePath("@storybook/addon-essentials"),
+    getAbsolutePath("@storybook/addon-interactions"),
   ],
   framework: {
     name: getAbsolutePath("@storybook/react-vite"),
