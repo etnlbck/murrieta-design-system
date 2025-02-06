@@ -17,8 +17,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/typescript-config": "*",
+    "@murrieta/eslint-config": "*",
+    "@murrieta/typescript-config": "*",
     "@storybook/addon-actions": "^8.2.6",
     "@storybook/addon-essentials": "^8.2.6",
     "@storybook/addon-links": "^8.2.6",
