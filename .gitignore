@@ -147,3 +147,4 @@ storybook-static/
 .vscode
 
 .vercel
+.npmrc
