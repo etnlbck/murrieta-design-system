@@ -19,6 +19,7 @@
   "devDependencies": {
     "@murrieta/eslint-config": "*",
     "@murrieta/typescript-config": "*",
+    "@murrieta/tailwind-config": "*",
     "@storybook/addon-actions": "^8.2.6",
     "@storybook/addon-essentials": "^8.2.6",
     "@storybook/addon-links": "^8.2.6",

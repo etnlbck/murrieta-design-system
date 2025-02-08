@@ -4,6 +4,11 @@
   "sideEffects": false,
   "license": "MIT",
   "exports": {
+    "./atoms/CheckboxField": {
+      "types": "./src/atoms/CheckboxField/index.tsx",
+      "import": "./dist/atoms/CheckboxField/index.mjs",
+      "require": "./dist/atoms/CheckboxField/index.js"
+    },
     "./foundation/icons": {
       "types": "./src/foundation/icons.tsx",
       "import": "./dist/foundation/icons.mjs",
