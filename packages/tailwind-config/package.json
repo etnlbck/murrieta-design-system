@@ -1,12 +1,16 @@
 {
   "name": "@murrieta/tailwind-config",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.1",
+
   "exports": {
     ".": "./tailwind.config.ts"
   },
   "devDependencies": {
     "@murrieta/typescript-config": "workspace:*",
     "tailwindcss": "^3.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
+
 }
