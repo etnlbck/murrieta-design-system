@@ -4,11 +4,6 @@
   "sideEffects": false,
   "license": "MIT",
   "exports": {
-    "./atoms/button": {
-      "types": "./src/atoms/button.tsx",
-      "import": "./dist/button.mjs",
-      "require": "./dist/button.js"
-    },
     "./foundation/icons": {
       "types": "./src/foundation/icons.tsx",
       "import": "./dist/foundation/icons.mjs",

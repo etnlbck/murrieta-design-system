@@ -9,7 +9,8 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=docs^... && changeset publish"
+    "release": "turbo run build --filter=docs^... && changeset publish",
+    "postinstall": "turbo run build --filter=@murrieta/ui"
   },
   "devDependencies": {
     "@awesome.me/kit-a2bfc4dc7b": "^1.0.5",
