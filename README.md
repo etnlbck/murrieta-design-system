@@ -27,7 +27,7 @@ We believe in the power of community and collaboration. Here’s how you can get
 
 - **Getting Started**: [Guide to using Murrieta](./docs/getting-started.md)
 - **Contributing Guide**: [How to contribute to Murrieta](./CONTRIBUTING.md)
-- **Component Library**: [Browse available components](./docs/component-library.md)
+- **Component Library**: Coming Soon
 - **Code of Conduct**: [Community guidelines](./CODE_OF_CONDUCT.md)
 
 ## 🎨 For Designers
