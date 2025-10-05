@@ -4,6 +4,11 @@
   "sideEffects": false,
   "license": "MIT",
   "exports": {
+    "./atoms/checkbox": {
+      "types": "./src/atoms/CheckboxField/index.tsx",
+      "import": "./dist/atoms/CheckboxField/index.mjs",
+      "require": "./dist/atoms/CheckboxField/index.js"
+    },
     "./foundation/icons": {
       "types": "./src/foundation/icons.tsx",
       "import": "./dist/foundation/icons.mjs",
@@ -47,6 +52,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2"
   },
   "dependencies": {
+    "@radix-ui/react-checkbox": "^1.1.1",
     "react": "^18.2.0"
   },
   "publishConfig": {
